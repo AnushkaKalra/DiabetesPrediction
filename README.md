@@ -18,6 +18,9 @@ To predict Diabetes using Machine Learning and establish whether a person is dia
 #### Scikit Learn
 ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png)
 
+### Dataset:
+[Dataset link](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
 ### Input
 In order to determine if a person is diabetic or not, the project takes in the following parameters as input:
 - Pregnancies
